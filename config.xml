@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+
+<!-- WEB SERVER META DATA -->
+<webserver
+    title="Luke’s Father"
+    date="March 2018"
+    author="Charchit Dahal"
+>
+
+<!-- DEFAULT DOCUMENTS -->
+<!-- macOS style -->
+<context defaultDocument="C:\Users\charc\Desktop\CMPT Networks\src\website\index.html"></context>
+
+<!-- DOCUMENT ROOT -->
+<!-- Windows style -->
+<context documentRoot="C:\Users\charc\Desktop\CMPT Networks\src\"></context>
+
+<!-- LOG FILE -->
+<!-- macOS / Linux style -->
+<logfile log="C:\Users\charc\Desktop\CMPT Networks\src\log.txt"></logfile>
+
+</webserver>
